@@ -1,8 +1,6 @@
 # ryanhendrawan9-Assignment_Day14_RyanHendrawan
 TypeScript Dibimbing
 
-Detail Assignment
-Silahkan mengerjakan 2 soal yang ada di bawah ini :
 Soal 1
 Buat sebuah fungsi bernama getFullName yang menerima parameter dengan tipe data Person. Tipe Person ini adalah sebuah type alias yang memiliki properti firstName (string) dan lastName (string).
 Kembalikan hasil concatenasi dari firstName dan lastName, dipisahkan oleh spasi.
