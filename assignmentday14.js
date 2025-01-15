@@ -1,6 +1,8 @@
 "use strict";
-// Soal 1
 Object.defineProperty(exports, "__esModule", { value: true });
+
+// Soal 1
+
 // Membuat fungsi getFullName  
 function getFullName(person) {
     // Mengembalikan gabungan firstName dan lastName dengan spasi  
